@@ -1,0 +1,4 @@
+mediapipe>=0.10.18
+opencv-python>=4.9.0
+pillow>=10.0.0
+customtkinter>=5.2.0
